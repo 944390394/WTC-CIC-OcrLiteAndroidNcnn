@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="AdditionalModuleElements">
+    <content url="file://$MODULE_DIR$/../../../OcrLibrary/src/sdk/native/jni/include">
+      <sourceFolder url="file://$MODULE_DIR$/../../../OcrLibrary/src/sdk/native/jni/include" type="native-header-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../OcrLibrary/src/sdk/native/jni/include/opencv" type="native-header-root" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../OcrLibrary/src/main" dumb="true">
+      <sourceFolder url="file://$MODULE_DIR$/../../../OcrLibrary/src/main/cpp" type="native-Source-root" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../OcrLibrary/src/main/ncnn/x86/include/ncnn" type="native-header-root" />
+    </content>
+  </component>
+</module>
